@@ -811,3 +811,10 @@ Processing by StaticController#about as HTML
 Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/about" for 69.121.243.230 at 2019-12-31 23:44:22 +0000
+Processing by StaticController#about as HTML
+  Rendering static/about.html.erb
+  Rendered static/about.html.erb (0.3ms)
+Completed 200 OK in 3ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+
+
